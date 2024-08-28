@@ -1,0 +1,6 @@
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+
+Scaffold-DbContext "Data Source=KhoaSinoo;Initial Catalog=Hshop2023;Integrated Security=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -f

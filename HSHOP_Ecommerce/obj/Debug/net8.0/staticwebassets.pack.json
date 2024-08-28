@@ -5,12 +5,160 @@
       "PackagePath": "staticwebassets\\HSHOP_Ecommerce.bundle.scp.css"
     },
     {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\.gitattributes",
+      "PackagePath": "staticwebassets\\.gitattributes"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\categories.html",
+      "PackagePath": "staticwebassets\\categories.html"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
       "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_2.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\banner_3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_3.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_2.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_3.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\deal_ofthe_week.png",
+      "PackagePath": "staticwebassets\\images\\deal_ofthe_week.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\desc_1.jpg",
+      "PackagePath": "staticwebassets\\images\\desc_1.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\desc_2.jpg",
+      "PackagePath": "staticwebassets\\images\\desc_2.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\desc_3.jpg",
+      "PackagePath": "staticwebassets\\images\\desc_3.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\map_marker.png",
+      "PackagePath": "staticwebassets\\images\\map_marker.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_1.png",
+      "PackagePath": "staticwebassets\\images\\product_1.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_10.png",
+      "PackagePath": "staticwebassets\\images\\product_10.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_2.png",
+      "PackagePath": "staticwebassets\\images\\product_2.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_3.png",
+      "PackagePath": "staticwebassets\\images\\product_3.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_4.png",
+      "PackagePath": "staticwebassets\\images\\product_4.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_5.png",
+      "PackagePath": "staticwebassets\\images\\product_5.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_6.png",
+      "PackagePath": "staticwebassets\\images\\product_6.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_7.png",
+      "PackagePath": "staticwebassets\\images\\product_7.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_8.png",
+      "PackagePath": "staticwebassets\\images\\product_8.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\product_9.png",
+      "PackagePath": "staticwebassets\\images\\product_9.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\single_1.jpg",
+      "PackagePath": "staticwebassets\\images\\single_1.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\single_1_thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\single_1_thumb.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\single_2.jpg",
+      "PackagePath": "staticwebassets\\images\\single_2.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\single_2_thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\single_2_thumb.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\single_3.jpg",
+      "PackagePath": "staticwebassets\\images\\single_3.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\single_3_thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\single_3_thumb.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\images\\slider_1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider_1.jpg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\js\\categories_custom.js",
+      "PackagePath": "staticwebassets\\js\\categories_custom.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\js\\contact_custom.js",
+      "PackagePath": "staticwebassets\\js\\contact_custom.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\js\\single_custom.js",
+      "PackagePath": "staticwebassets\\js\\single_custom.js"
     },
     {
       "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\js\\site.js",
@@ -243,6 +391,262 @@
     {
       "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\Isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\Isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\single.html",
+      "PackagePath": "staticwebassets\\single.html"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\categories_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\categories_responsive.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\categories_styles.css",
+      "PackagePath": "staticwebassets\\styles\\categories_styles.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\contact_styles.css",
+      "PackagePath": "staticwebassets\\styles\\contact_styles.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\single_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\single_responsive.css"
+    },
+    {
+      "Id": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\wwwroot\\styles\\single_styles.css",
+      "PackagePath": "staticwebassets\\styles\\single_styles.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HSHOP_Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|w:\\workspace\\asp.net_core\\netcore8_mvc_pure_ecommerce\\hshop_ecommerce\\hshop_ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC80759-D87C-4E4D-96F5-B59231B21E76}|HSHOP_Ecommerce\\HSHOP_Ecommerce.csproj|solutionrelative:hshop_ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HangHoasController.cs",
-              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Controllers\\HangHoasController.cs",
-              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Controllers\\HangHoasController.cs",
-              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Controllers\\HangHoasController.cs",
-              "RelativeToolTip": "HSHOP_Ecommerce\\Controllers\\HangHoasController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Controllers\\HangHoaController.cs",
+              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "HSHOP_Ecommerce\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T14:12:28.146Z",
+              "WhenOpened": "2024-08-29T01:21:49.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Hshop2023Context.cs",
-              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Data\\Hshop2023Context.cs",
-              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Data\\Hshop2023Context.cs",
-              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Data\\Hshop2023Context.cs",
-              "RelativeToolTip": "HSHOP_Ecommerce\\Data\\Hshop2023Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T10:18:43.509Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "HSHOP_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAvwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T01:08:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "HSHOP_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T00:53:22.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\appsettings.json",
-              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\appsettings.json",
-              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\appsettings.json",
-              "RelativeToolTip": "HSHOP_Ecommerce\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-28T10:08:54.464Z",
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "HSHOP_Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:39:03.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Program.cs",
-              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Program.cs",
-              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Program.cs",
-              "RelativeToolTip": "HSHOP_Ecommerce\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:32:17.524Z",
+              "DocumentIndex": 4,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "HSHOP_Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T00:32:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HSHOP_Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T00:32:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "HSHOP_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "W:\\WorkSpace\\ASP.NET_CORE\\NetCore8_MVC_Pure_ecommerce\\HSHOP_Ecommerce\\HSHOP_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "HSHOP_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T00:31:52.831Z",
               "EditorCaption": ""
             }
           ]

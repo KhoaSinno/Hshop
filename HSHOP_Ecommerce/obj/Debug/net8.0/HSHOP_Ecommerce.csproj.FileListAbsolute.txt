@@ -234,6 +234,7 @@ W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecom
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\HSHOP_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\HSHOP_Ecommerce.RazorAssemblyInfo.cache
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\HSHOP_Ecommerce.RazorAssemblyInfo.cs
+W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\HSHOP_Ecommerce.sourcelink.json
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\staticwebassets.build.json
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\staticwebassets.development.json
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\staticwebassets\msbuild.HSHOP_Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
@@ -250,4 +251,3 @@ W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecom
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\HSHOP_Ecommerce.pdb
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\HSHOP_Ecommerce.genruntimeconfig.cache
 W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\ref\HSHOP_Ecommerce.dll
-W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce\obj\Debug\net8.0\HSHOP_Ecommerce.sourcelink.json

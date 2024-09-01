@@ -52,5 +52,32 @@ namespace HSHOP_Ecommerce.Controllers
             });
             return View(result);
         }
+
+        public IActionResult Detail(int id)
+        {
+            var result = (from p in db.HangHoas
+                          join cate in db.Loais on p.MaLoai equals cate.MaLoai
+                         where p.MaHh == id
+                         select new ChiTietHangHoaVM
+                         {
+                             MaHh = p.MaHh,
+                             TenHh= p.TenHh,
+                             DonGia= p.DonGia ?? 0,
+                             TenLoai = cate.TenLoai,
+                             MotaNgan = p.MoTaDonVi ?? string.Empty,
+                             Hinh = cate.Hinh ?? string.Empty,
+                             ChiTiet = p.MoTa ?? string.Empty,
+                             SoLuongTon = 10,
+                             DiemDanhGia = 5
+                          
+                         }).SingleOrDefault();
+
+            if (result == null) {
+                TempData["Message"] = $"Không tìm thấy sản phẩm có ID = {id}";
+                return Redirect("/404");
+            }
+            return View(result);
+
+        }
     }
 }

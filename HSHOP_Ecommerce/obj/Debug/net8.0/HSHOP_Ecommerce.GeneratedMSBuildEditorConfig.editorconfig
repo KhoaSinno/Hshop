@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = W:\WorkSpace\ASP.NET_CORE\NetCore8_MVC_Pure_ecommerce\HSHOP_Ecommerce\HSHOP_Ecommerce
 build_property._RazorSourceGeneratorDebug = 
 
+[W:/WorkSpace/ASP.NET_CORE/NetCore8_MVC_Pure_ecommerce/HSHOP_Ecommerce/HSHOP_Ecommerce/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [W:/WorkSpace/ASP.NET_CORE/NetCore8_MVC_Pure_ecommerce/HSHOP_Ecommerce/HSHOP_Ecommerce/Views/HangHoas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

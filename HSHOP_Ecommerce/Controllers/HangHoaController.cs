@@ -65,7 +65,7 @@ namespace HSHOP_Ecommerce.Controllers
                              DonGia= p.DonGia ?? 0,
                              TenLoai = cate.TenLoai,
                              MotaNgan = p.MoTaDonVi ?? string.Empty,
-                             Hinh = cate.Hinh ?? string.Empty,
+                             Hinh = p.Hinh ?? string.Empty,
                              ChiTiet = p.MoTa ?? string.Empty,
                              SoLuongTon = 10,
                              DiemDanhGia = 5
